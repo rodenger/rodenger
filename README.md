@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-preparing for the pool!
 =======
 <h1 align="center">Hey, What's up?</h1>
 
