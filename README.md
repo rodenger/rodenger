@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">> Creating bugs since march 2025<<br><br>> I'm currently learning C/shell<<br><br>> the goal: pass the 1337 pool and become a student in the school<</p>
+<p align="center">> Creating bugs since march 2025<<br><br>> I'm currently learning C and Shell<<br><br>> the goal: pass the 1337 pool and become a student in the school<</p>
 
 ###
 
