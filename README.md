@@ -10,30 +10,20 @@
 
 ###
 
-<p align="center">> Creating bugs since march 2025<<br><br>> I'm currently learning C and Shell<<br><br>> the goal: pass the 1337 pool and become a student in the school<</p>
+<p align="center">> Creating bugs since march 2025<<br><br>> I'm currently learning C && Shell<<br><br>> the goal: pass the 1337 pool and become a student in the school<</p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center"></h2>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
-<!--
-**rodenger/rodenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
