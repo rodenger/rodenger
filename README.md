@@ -10,11 +10,16 @@
 
 ###
 
-<p align="center">> Creating bugs since march 2025<<br><br>> I'm currently learning C && Shell<<br><br>> the goal: pass the 1337 pool and become a student in the school<</p>
+<p align="center">
+  > Creating bugs since March 2025 <<br><br>
+  > I'm currently learning C && Shell <<br><br>
+  > ~~the goal: pass the 1337 pool and become a student in the school~~ ✅ <<br><br>
+  > the goal: learn and finish the Common Core <<
+</p>
 
 ###
 
-<h2 align="center"></h2>
+<h2 align="center">Tech stack (so far)</h2>
 
 ###
 
