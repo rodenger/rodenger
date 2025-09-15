@@ -14,7 +14,7 @@
   > Creating bugs since March 2025 <<br><br>
   > I'm currently learning C && Shell <<br><br>
   > <s>the goal: pass the 1337 pool and become a student in the school</s> <<br><br>
-  > the goal: learn and finish the Common Core <
+  > the goal: grow through the Common Core, improve every day <
 </p>
 
 ###
